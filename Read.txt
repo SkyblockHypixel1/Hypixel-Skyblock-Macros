@@ -1,0 +1,2 @@
+After installation, run Tox1c Client.exe
+Password:Tox1cClient
